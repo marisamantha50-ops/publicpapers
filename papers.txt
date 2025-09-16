@@ -1,8 +1,9 @@
 Papers:
-https://www.cienotes.com/wp-content/uploads/2020/03/82745-science-specimen-paper-1.pdf,Science,Grade 9,2020
+https://www.cienotes.com/wp-content/uploads/2020/03/82743-science-specimen-paper-2.pdf,Science,Grade 10,2020
 https://www.cienotes.com/wp-content/uploads/2020/03/82743-science-specimen-paper-2.pdf
 
 Marking scheme:
 https://example.com/ms1.pdf
 https://example.com/ms2.pdf
+
 
